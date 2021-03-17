@@ -22,3 +22,5 @@ This repository contains the files for a complete Admin-Client Library Managemen
 NOW YOU CAN RUN THE PROJECT ON YOUR DEVICE. 
 Refer to the flowchhart in this repo for help navigating through the project.
 HOPE YOU LIKE IT. :)
+
+For detailed documentation, send a mail to barbareshiven@gmail.com
