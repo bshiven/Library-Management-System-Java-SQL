@@ -18,4 +18,6 @@ This repository contains the files for a complete Admin-Client Library Managemen
 
 *Ensure that your MYSQL user id is 'root' and password is '1234'. If not, change your id and password to 'root' and '1234' respectively*
 
-NOW YOU CAN RUN THE PROJECT ON YOUR DEVICE. HOPE YOU LIKE IT. :)
+NOW YOU CAN RUN THE PROJECT ON YOUR DEVICE. 
+Refer to the flowchhart in this repo for help navigating through the project.
+HOPE YOU LIKE IT. :)
